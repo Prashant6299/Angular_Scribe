@@ -1,0 +1,33 @@
+.background-left
+{
+    background-color:#4bb5e6;
+    background-image: url('../../assets/Sign-Up-BG-Image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left bottom;
+}
+
+.background-right
+{
+    background-color: #4bb5e6;
+}
+
+.card{
+    background-color: transparent;
+    color: #fff;
+}
+
+.text-muted{
+    color: #fff !important;
+}
+
+.btn[type=submit]
+{
+    border-radius: 50px;
+}
+
+h2{
+    color: #fff;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
